@@ -64,4 +64,14 @@ const YourComponent = () => {
   return <CustomButton title="Report Error" onNetworkError={reportError} />;
 };
 ```
+```markdown
+## Contributing
 
+We welcome contributions! Please follow these steps to contribute:
+
+1. Fork the repository.
+2. Create a new branch: `git checkout -b my-feature-branch`.
+3. Make your changes and commit them: `git commit -m 'Add new feature'`.
+4. Push to the branch: `git push origin my-feature-branch`.
+5. Submit a pull request.
+```
