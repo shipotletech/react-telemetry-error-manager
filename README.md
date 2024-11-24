@@ -11,8 +11,6 @@ This library provides a comprehensive solution for error reporting and managemen
    ```bash
    npm i react-telemetry-error-manager
    ```
-  ## Why Choose This Library?
- This library helps you to manage the errors in a systematic way. The key functionalities of this library are
  ## How to use this library
 Using this library in your project involves a straightforward two-step process:
  ### Step 1. Setup ErrorReportProvider
